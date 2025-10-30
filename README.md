@@ -1,4 +1,4 @@
-<h1 align="center">Chandra Shekar Reddy</h1>
+<h1 align="center">Chandra Shekar Reddy Kichannagari</h1>
 <h3 align="center">Artificial Intelligence | Machine Learning | Deep Learning | Data Science</h3>
 
 <p align="center">
@@ -89,6 +89,20 @@ I am currently exploring:
   <a href="https://leetcode.com/u/chandrashekar7780/">LeetCode</a> • 
   <a href="https://www.codechef.com/users/bold_bass_74">CodeChef</a>
 </p>
+
+
+---
+
+## 🏆 Achievements 
+- Solved **500+ CodeChef** & **800+ LeetCode** problems  
+- **8.3+ CGPA** in B.Tech (AI)
+
+---
+
+## 📜 Certifications
+- **GenAI Data Analytics** — Forage  
+- **AI Fundamentals** — Infosys Springboard  
+- **ML Essentials** — AWS Academy
 
 ---
 

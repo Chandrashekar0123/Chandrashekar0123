@@ -80,20 +80,6 @@ I am currently exploring:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekar0123&layout=compact&theme=github_dark&hide_border=true" height="165px"/>
 </p>
 
-
----
-
-## 🏆 Achievements 
-- Solved **500+ CodeChef** & **800+ LeetCode** problems  
-- **8.3+ CGPA** in B.Tech (AI)
-
----
-
-## 📜 Certifications
-- **GenAI Data Analytics** — Forage  
-- **AI Fundamentals** — Infosys Springboard  
-- **ML Essentials** — AWS Academy
-
 ---
 
 <p align="center">

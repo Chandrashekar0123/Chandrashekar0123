@@ -79,18 +79,6 @@ I am currently exploring:
   <img src="https://github-readme-stats.vercel.app/api?username=Chandrashekar0123&show_icons=true&theme=github_dark&hide_border=true" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekar0123&layout=compact&theme=github_dark&hide_border=true" height="165px"/>
 </p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">LinkedIn</a> • 
-  <a href="https://github.com/Chandrashekar0123">GitHub</a> • 
-  <a href="mailto:chandrashekar63707@gmail.com">Email</a> • 
-  <a href="https://leetcode.com/u/chandrashekar7780/">LeetCode</a> • 
-  <a href="https://www.codechef.com/users/bold_bass_74">CodeChef</a>
-</p>
-
-
 ---
 
 ## 🏆 Achievements 
@@ -103,6 +91,16 @@ I am currently exploring:
 - **GenAI Data Analytics** — Forage  
 - **AI Fundamentals** — Infosys Springboard  
 - **ML Essentials** — AWS Academy
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">LinkedIn</a> • 
+  <a href="https://github.com/Chandrashekar0123">GitHub</a> • 
+  <a href="mailto:chandrashekar63707@gmail.com">Email</a> • 
+  <a href="https://leetcode.com/u/chandrashekar7780/">LeetCode</a> • 
+  <a href="https://www.codechef.com/users/bold_bass_74">CodeChef</a>
+</p>
+
 
 ---
 

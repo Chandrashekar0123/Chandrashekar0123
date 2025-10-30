@@ -91,6 +91,7 @@ I am currently exploring:
 - **GenAI Data Analytics** — Forage  
 - **AI Fundamentals** — Infosys Springboard  
 - **ML Essentials** — AWS Academy
+
 ---
 
 <p align="center">

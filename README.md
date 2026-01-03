@@ -62,12 +62,6 @@ My interests include applied AI, Deep Learning, NLP, and Speech Processing. I en
 
 ### GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrashekar0123&show_icons=true&theme=github_dark&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekar0123&layout=compact&theme=github_dark&hide_border=true" height="165px"/>
-</p>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">LinkedIn</a> • 

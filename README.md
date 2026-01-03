@@ -15,11 +15,6 @@
 I am an Artificial Intelligence and Machine Learning undergraduate (Class of 2026) passionate about developing intelligent, data-driven solutions.  
 My interests include applied AI, Deep Learning, NLP, and Speech Processing. I enjoy building end-to-end machine learning projects that combine innovation, functionality, and real-world application.  
 
-I am currently exploring:  
-- Large Language Models (LLMs) and Prompt Engineering  
-- Speech Processing with Whisper and TTS  
-- Real-time AI Applications using Flask and Streamlit  
-
 ---
 
 ### Technical Skills  
@@ -62,14 +57,6 @@ I am currently exploring:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-### Projects  
-- **Stammer Detection & Speech Correction** — AI pipeline for detecting and correcting stammered speech using Whisper, TTS, and Flask.  
-- **Stock Price Prediction (Apple)** — LSTM-based time series forecasting model with Streamlit dashboard.  
-- **Fake News Detection** — NLP-based Streamlit web app with Logistic Regression (99% accuracy).  
-- **Age & Gender Prediction** — CNN-based model for facial attribute recognition (VGG16, IMDb-Wiki).  
 
 ---
 

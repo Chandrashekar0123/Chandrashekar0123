@@ -60,9 +60,6 @@ My interests include applied AI, Deep Learning, NLP, and Speech Processing. I en
 
 ---
 
-### GitHub Insights  
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">LinkedIn</a> • 
   <a href="https://github.com/Chandrashekar0123">GitHub</a> • 

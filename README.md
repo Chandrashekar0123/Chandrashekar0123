@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandra Shekar Reddy Kichannagari</h1>
-<h3 align="center">🚀 AI & Machine Learning Engineer | Deep Learning | Data Science | NLP & Speech AI</h3>
+<h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer | Deep Learning | NLP | Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chandrashekar0123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -25,29 +25,29 @@
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 Final-year Artificial Intelligence & Machine Learning undergraduate (Class of 2026) passionate about building intelligent systems that solve real-world problems.
+🎓 Final-year Artificial Intelligence & Machine Learning undergraduate (Class of 2026) passionate about building intelligent and impactful AI solutions.
 
-💡 My interests include:
-- Artificial Intelligence
+💡 I enjoy working on:
 - Machine Learning & Deep Learning
 - NLP & Large Language Models
 - Speech Processing & Emotion Detection
 - Computer Vision & Generative AI
+- Real-world AI Applications
 
 🔭 Currently working on:
-- **Stammer Detection & Fluent Speech Generation**
-- **Real-Time Stock Market Prediction using LSTM & Transformers**
-- **AI-Powered Resume Screening using NLP**
+- 🎙️ **Stammer Detection & Fluent Speech Generation**
+- 📈 **Stock Market Prediction using LSTM & Transformers**
+- 🧠 **AI Resume Screening using NLP**
 
-🌱 Continuously learning:
+🌱 Currently learning:
 - PyTorch & Transformers
 - Advanced Deep Learning Architectures
 - Scalable AI Deployment
 
 💬 Ask me about:
-**Machine Learning, Deep Learning, NLP, Speech AI, Data Science, Flask, Streamlit, and AI Projects**
+**Machine Learning, Deep Learning, NLP, Flask, Streamlit, Speech AI & Data Science**
 
 📫 Reach me at:
 **chandrashekar63707@gmail.com**
@@ -96,38 +96,42 @@
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎙️ Stammer Detection & Fluent Speech Generation
-AI-powered speech system that detects stammered speech, removes dysfluencies, detects emotions, and converts speech into fluent audio using Deep Learning and NLP techniques.
+Developed an AI-powered speech processing system that detects stammered speech, removes dysfluencies, detects emotion, and converts speech into fluent audio using Deep Learning and NLP techniques.
 
 ### 📈 Real-Time Stock Market Prediction
-Built LSTM and Transformer-based models to predict stock prices with visualization dashboards and forecasting analysis.
+Built LSTM and Transformer-based forecasting models for stock price prediction with interactive visualization dashboards.
 
 ### 🧠 AI Resume Screening System
-Developed an NLP-based intelligent resume screening platform using Machine Learning and BERT-based techniques.
+Created an NLP-based intelligent resume screening platform using Machine Learning and BERT-based architectures.
 
 ### 👁️ Age & Gender Prediction
-Implemented EfficientNetB0-based deep learning architecture for facial age and gender prediction using IMDb-Wiki dataset.
+Implemented EfficientNetB0-based multi-output deep learning models for facial age and gender prediction using the IMDb-Wiki dataset.
 
 ### 📰 Fake News Detection
-Created a machine learning pipeline to classify fake and real news articles using NLP preprocessing and classification algorithms.
+Designed a machine learning pipeline for detecting fake and real news articles using NLP preprocessing and classification algorithms.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chandrashekar0123&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekar0123&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrashekar0123&theme=tokyonight" />
 </p>
 
 ---

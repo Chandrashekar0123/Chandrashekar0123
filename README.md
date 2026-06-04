@@ -20,7 +20,7 @@
 
 ## About Me
 
-Final-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning, with hands-on experience building deep learning models, NLP pipelines, and full-stack AI-integrated applications. Currently interning as an **AI Programmer at ReatchAll Pvt. Ltd.**, developing scalable MERN-stack platforms with AI integrations. Actively exploring PyTorch, Generative AI, and LLM fine-tuning.
+B.Tech Graduate specializing in Artificial Intelligence and Machine Learning, with hands-on experience building deep learning models, NLP pipelines, and full-stack AI-integrated applications. Currently interning as an **AI Programmer at ReatchAll Pvt. Ltd.**, developing scalable MERN-stack platforms with AI integrations. Actively exploring Tensorflow, Generative AI, and LLM fine-tuning.
 
 ---
 
@@ -69,17 +69,3 @@ Stacked LSTM network trained on 5+ years of AAPL data achieving **98% evaluation
 ### [Age & Gender Prediction](https://github.com/Chandrashekar0123/Age-and-Gender-Prediction)
 Fine-tuned VGG16 via transfer learning on the IMDb-Wiki dataset (500K+ images), achieving **91% accuracy**. Deployed as a Flask REST API with an OpenCV preprocessing pipeline.
 `VGG16` `Transfer Learning` `Flask` `OpenCV`
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrashekar0123&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekar0123&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrashekar0123&theme=tokyonight&hide_border=true"/>
-</p>

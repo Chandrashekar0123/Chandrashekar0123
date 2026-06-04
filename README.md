@@ -1,1 +1,81 @@
-<h1 align="center">Chandra Shekar Reddy Kichannagari</h1> <h3 align="center">Artificial Intelligence | Machine Learning | Deep Learning | Data Science</h3> <p align="center"> <a href="mailto:chandrashekar63707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Chandrashekar0123"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"/></a> <a href="https://leetcode.com/u/chandrashekar7780/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white"/></a> <a href="https://www.codechef.com/users/bold_bass_74"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a> </p> --- ### About Me I am an Artificial Intelligence and Machine Learning undergraduate (Class of 2026) passionate about developing intelligent, data-driven solutions. My interests include applied AI, Deep Learning, NLP, and Speech Processing. I enjoy building end-to-end machine learning projects that combine innovation, functionality, and real-world application. --- ### Technical Skills #### Programming & Tools <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p> #### Machine Learning & Deep Learning <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-2C2D72?style=for-the-badge"/> </p> #### Data Science & Visualization <p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p> #### Frameworks & Platforms <p> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p> --- <p align="center"> <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">LinkedIn</a> • <a href="https://github.com/Chandrashekar0123">GitHub</a> • <a href="mailto:chandrashekar63707@gmail.com">Email</a> • <a href="https://leetcode.com/u/chandrashekar7780/">LeetCode</a> • <a href="https://www.codechef.com/users/bold_bass_74">CodeChef</a> </p> --- <p align="center"> <b>“Innovating with Intelligence — Building AI that Matters.”</b> </p>
+<h1 align="center">Chandra Shekar Reddy Kichannagari</h1>
+
+<p align="center">
+  <em>Artificial Intelligence &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Deep Learning &nbsp;|&nbsp; Data Science</em>
+</p>
+
+<p align="center">
+  <a href="mailto:chandrashekar63707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Chandrashekar0123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/chandrashekar7780/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/bold_bass_74">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+I am an Artificial Intelligence and Machine Learning undergraduate (Class of 2026), focused on developing intelligent, data-driven solutions with real-world impact. My interests span applied AI, deep learning, natural language processing, and speech processing. I enjoy building end-to-end machine learning systems that combine technical rigor with practical functionality.
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-2C2D72?style=flat-square)
+
+**Data Science & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Frameworks & Platforms**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Chandrashekar0123">GitHub</a> &nbsp;·&nbsp;
+  <a href="mailto:chandrashekar63707@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/chandrashekar7780/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://www.codechef.com/users/bold_bass_74">CodeChef</a>
+</p>
